@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+main {
+  height: 95vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer {
+  height: 5vh;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+footer p {
+  margin: auto;
+  padding: 1vh;
+}
